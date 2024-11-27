@@ -15,7 +15,7 @@ This is a modern, responsive landing page design suitable for businesses.
  Mobile-first design approach
 
 # Demo
-You can view the demo here: [Live Demo](https://your-website-link.com)
+You can view the demo here: [Live Demo]( https://github.com/Anwar157/SmartTech-Solutions )
 
 # Installation
 1. Clone this repository:
@@ -52,12 +52,15 @@ For any questions or feedback, feel free to reach out to us at:
  Email: [anwarhossen0258@gmail.com]
 
 # Screenshots
-[Landing Page Screenshot](path/to/screenshot.png)
+![Landing Page Screenshot](https://github.com/Anwar157/SmartTech-Solutions/blob/main/Screenshot%20(34).png)
+![Second Screenshot](https://github.com/Anwar157/SmartTech-Solutions/blob/main/Screenshot%20(35).png)
+![Third Screenshot](https://github.com/Anwar157/SmartTech-Solutions/blob/main/Screenshot%20(36).png)
 
 # More Screenshots
 # Desktop View
-[Desktop View Screenshot](path/to/desktop_screenshot.png)
-
+[Desktop View Screenshot](https://github.com/Anwar157/SmartTech-Solutions/blob/main/Screenshot%20(37).png)
+![Second Screenshot](https://github.com/Anwar157/SmartTech-Solutions/blob/main/Screenshot%20(38).png)
+![Third Screenshot](https://github.com/Anwar157/SmartTech-Solutions/blob/main/Screenshot%20(39).png)
 # Mobile View
 [Mobile View Screenshot](path/to/mobile_screenshot.png)
 
